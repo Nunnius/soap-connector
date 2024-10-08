@@ -1,5 +1,5 @@
 {
-  "name": "soap-connector",
+  "name": "my-soap-connector",
   "version": "1.0.0",
   "description": "A connector to transfer information via soap with a webservice",
   "main": "index.js",
