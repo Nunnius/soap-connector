@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Roberto Latscha",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "soap": "^1.1.5"
+  }
 }
